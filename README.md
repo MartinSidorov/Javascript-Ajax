@@ -1,2 +1,2 @@
-# Javascript-Ajax
+# Programmeerimine
 comic scraping script
